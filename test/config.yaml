@@ -1,8 +1,0 @@
-displayName: Test_1/27/2023_3:37:35PM
-testPlan: W_JSR223 Sampler_inlinegroovyscript.jmx
-description: ''
-engineInstances: 10
-testId: 1143ec34-0f9f-44dd-99f7-c07029a0901b
-splitAllCSVs: False
-failureCriteria:
-- p50(latency) < dsfsf 0
